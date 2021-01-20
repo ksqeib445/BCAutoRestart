@@ -1,0 +1,4 @@
+name: AutoRestart
+main: fun.ksmc.bungee.extend.server.AutoRestart
+version: 1.0
+author: ksqeib
